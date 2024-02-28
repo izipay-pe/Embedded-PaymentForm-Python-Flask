@@ -79,9 +79,10 @@ Antes de ejecutar el proyecto, se creará el virtual environment (venv):
   <img src="https://i.postimg.cc/wvrQQps1/Debug-conf.png" alt="SelectRequirements" width="600"/>
 </p>
 4. El proyecto se ha ejecutado y es accesible a través de:
+
  ```sh
   http://127.0.0.1:5000
-  ```
+ ```
 
 > [!CAUTION]
 > En caso de error ejecutar PowerShell como administrador y ejecutar el comando  `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser`
