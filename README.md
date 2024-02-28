@@ -92,9 +92,9 @@ Antes de ejecutar el proyecto, se creará el virtual environment (venv):
 
 **Nota**: Reemplace **[CHANGE_ME]** con sus credenciales de `API REST` extraídas desde el Back Office Vendedor, ver [Requisitos Previos](#Requisitos_Previos).
 
-* Editar en `Keys/keys.py` :
+* Editar en `key.py` :
 <p align="center">
-  <img src="https://i.postimg.cc/k4NvjJJv/Credentials.pngg" alt="Credentials"/>
+  <img src="https://i.postimg.cc/667kJ6c1/keys.png" alt="Credentials"/>
 </p>
 
 ## 5. Transacción de prueba
