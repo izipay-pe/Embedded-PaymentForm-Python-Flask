@@ -66,7 +66,6 @@ Antes de ejecutar el proyecto, se creará el virtual environment (venv):
 </p>
 
 ### Ejecutar proyecto
-
 1. Para ejecutar el proyecto a través de Visual Studio, ingresar a la sección "Ejecutar" y seleccionar `Run and Debug`
 <p align="center">
   <img src="https://i.postimg.cc/8sQdxm4D/Ejecutar.png" alt="SelectInterpreter" width="400"/>
