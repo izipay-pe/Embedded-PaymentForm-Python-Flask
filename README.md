@@ -184,8 +184,8 @@ Además, se inserta en el body una etiqueta div con la clase `kr-embedded` que d
 Body:
 ```html
 <div id="micuentawebstd_rest_wrapper">
-				<!-- HTML para incrustar la pasarela de pagos-->
-				<div class="kr-embedded" kr-form-token="{{data.formToken}}"></div>	
+	<!-- HTML para incrustar la pasarela de pagos-->
+	<div class="kr-embedded" kr-form-token="{{data.formToken}}"></div>	
 </div>
 ```
 ℹ️ Para más información: [Visualizar formulario](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/javascript/guide/embedded/formToken.html)
