@@ -62,10 +62,10 @@ Reemplace **[CHANGE_ME]** con sus credenciales de `API REST` extraídas desde el
 - Editar el archivo `key.py` en la ruta raíz:
 ```python
 credentials = {
-    "USERNAME": "CHANGE_ME",
-    "PASSWORD": "CHANGE_ME",
-    "PUBLIC_KEY": "CHANGE_ME",
-    "HMACSHA256": "CHANGE_ME"
+    "USERNAME": "CHANGE_ME_USER_ID",
+    "PASSWORD": "CHANGE_ME_PASSWORD",
+    "PUBLIC_KEY": "CHANGE_ME_PUBLIC_KEY",
+    "HMACSHA256": "CHANGE_ME_HMAC_SHA_256"
 }
 ```
 
@@ -304,10 +304,10 @@ Reemplace **[CHANGE_ME]** con sus credenciales de PRODUCCIÓN de `API REST` extr
 - Editar el archivo `key.py` en la ruta raíz:
 ```python
 credentials = {
-    "USERNAME": "CHANGE_ME",
-    "PASSWORD": "CHANGE_ME",
-    "PUBLIC_KEY": "CHANGE_ME",
-    "HMACSHA256": "CHANGE_ME"
+    "USERNAME": "CHANGE_ME_USER_ID",
+    "PASSWORD": "CHANGE_ME_PASSWORD",
+    "PUBLIC_KEY": "CHANGE_ME_PUBLIC_KEY",
+    "HMACSHA256": "CHANGE_ME_HMAC_SHA_256"
 }
 ```
 
