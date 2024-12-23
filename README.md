@@ -322,3 +322,8 @@ Si deseas aplicar cambios específicos en la apariencia de la pasarela de pago, 
 ## 📚 6. Consideraciones
 
 Para obtener más información, echa un vistazo a:
+
+- [Formulario incrustado: prueba rápida](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/javascript/quick_start_js.html)
+- [Primeros pasos: pago simple](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/javascript/guide/start.html)
+- [Servicios web - referencia de la API REST](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/api/reference.html)
+
