@@ -1,0 +1,6 @@
+credentials = {
+    "USERNAME": "CHANGE_ME_USER_ID",
+    "PASSWORD": "CHANGE_ME_USER_ID",
+    "PUBLIC_KEY": "CHANGE_ME_USER_ID",
+    "HMACSHA256": "CHANGE_ME_USER_ID"
+}
